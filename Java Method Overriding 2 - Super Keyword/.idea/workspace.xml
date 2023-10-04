@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a237fcb3-5db1-4970-ac94-7995cad53909" name="Changes" comment="Add the keyword super to line 9 of the MotorCycle Class" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2WEQVVkUMBZpENT5i5kHDsEamw9" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a237fcb3-5db1-4970-ac94-7995cad53909" name="Changes" comment="" />
+      <created>1696295282577</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1696295282577</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Challenge text pasted below:&#10;When a method in a subclass overrides a method in superclass, it is still possible to call the overridden method using super keyword. If you write super.func() to call the function func(), it will call the method that was defined in the superclass.&#10;&#10;You are given a partially completed code in the editor. Modify the code so that the code prints the following text:&#10;&#10;Hello I am a motorcycle, I am a cycle with an engine.&#10;My ancestor is a cycle who is a vehicle with pedals.">
+      <created>1696295312096</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1696295312096</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Add the keyword super to line 9 of the MotorCycle Class">
+      <created>1696295799155</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1696295799155</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Challenge text pasted below:&#10;When a method in a subclass overrides a method in superclass, it is still possible to call the overridden method using super keyword. If you write super.func() to call the function func(), it will call the method that was defined in the superclass.&#10;&#10;You are given a partially completed code in the editor. Modify the code so that the code prints the following text:&#10;&#10;Hello I am a motorcycle, I am a cycle with an engine.&#10;My ancestor is a cycle who is a vehicle with pedals." />
+    <MESSAGE value="Add the keyword super to line 9 of the MotorCycle Class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add the keyword super to line 9 of the MotorCycle Class" />
+  </component>
+</project>
